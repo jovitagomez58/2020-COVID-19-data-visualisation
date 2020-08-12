@@ -11,13 +11,13 @@ After clicking “start animate”, over time, the number of confirmed cases in 
 ![(PLOT2: Second secontion is shown as a global situation implementation)](/Plot_fold/Picture2.png)
 ## South Korea situation
 The graph below is about the relationship between the number of confirm cases and infection reason in South Korea.
-![(PLOT3: Third secontion is shown as a South Korea situation)](/Plot_fold/Picture 3.png)
+![(PLOT3: Third secontion is shown as a South Korea situation)](/Plot_fold/Picture3.png)
 On the map, each province has a different colour circle, the size of circle represents the number of confirm cases, the bigger the circle, the more confirm cases in this province. When mouse hover on the circle, the bar chart of infection reason is shown. As figure shown, when mouse hover on the purple circle, the bar chart shows that the largest number of patients is infected by “overseas inflow”, following by “contact with patient” and “Itaewon Clubs” in this province.
 The graph below is about the relationship between temperature and patients’ status. User can select any province they want to see above, and the temperature line chart of the corresponding province is shown below. When user’s mouse hover on one point of the line, there is a pie chart showing the new isolated, new released and new deceased patients on that day. I choose one province with a large temperature fluctuation in order to show the effect of rising temperature on the number of people recovered. The graph shows that there are many patients are recovered after temperature increasing.
-![(PLOT4: Forth secontion is shown as a South Korea situation implementation)](/Plot_fold/Picture 4.png)
+![(PLOT4: Forth secontion is shown as a South Korea situation implementation)](/Plot_fold/Picture4.png)
 ## Comparison of Canadian and South Korean patients
 In this part, the graph shows comparison of gender, age group and travel or not of South Korea and Canadian patients.
-![(PLOT5: Fifth secontion is shown as the comparison of Canadian and South Korean patients)](/Plot_fold/Picture 5.png)
+![(PLOT5: Fifth secontion is shown as the comparison of Canadian and South Korean patients)](/Plot_fold/Picture5.png)
 As figure shown, the left side shows the number of patients in each age group in Canada, for each bar, the different colour of each bar shows the percentage of patients travel or not. When user’s mouse hover on one bar, the pie chart of gender percentage will show to users. From the graph, we could see that the largest number of Korean age group is 20s, however, it’s 50s in Canada. Also, in Korea, most patients don’t have overseas travel history, but the percentage of having overseas travel is about half in each age group in Canada, except 10s and 90s. In Canada and South Korea, the ratio of men to women in the most age group is similar, except that in one or two groups there are slightly more men than women.
 ## Conclusion
 By implement all the visualisations of the design, I find out that in some countries the COVID- 19 situation becomes worse and worse although they control the virus spread at the beginning, however, some countries situation becomes better and better by wise control and policy.
