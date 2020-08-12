@@ -1,0 +1,22 @@
+.flowpop{
+    background-clip: padding-box;
+    padding: 10px; 
+    background:burlywood;
+    opacity:1;
+}
+
+.main {
+    margin: auto;
+    width: 1000px;
+    margin-top: 46px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    text-align: center;
+  }

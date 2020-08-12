@@ -1,0 +1,55 @@
+.flowpop{
+    background-clip: padding-box;
+    padding: 10px; 
+    background:burlywood;
+    opacity:1;
+}
+
+.line {
+    fill: none;
+    stroke-width: 2px;
+}
+
+.legend rect {
+    fill: white;
+    stroke: black;
+    opacity: 0.8;
+}
+
+.main {
+    margin: auto;
+    width: 1000px;
+    margin-top: 46px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    text-align: center;
+  }
+
+
+#container {
+    text-align: justify;
+    -ms-text-justify: distribute-all-lines;
+    text-justify: distribute-all-lines;
+    width:100%;
+}
+#container>div {
+    width: 370px;
+    height: 100px;
+    vertical-align: top;
+    display: inline-block;
+    *display: inline;
+    zoom: 1;
+}
+span {
+    width: 100%;
+    display: inline-block;
+    font-size: 0;
+    line-height: 0
+}

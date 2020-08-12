@@ -1,0 +1,74 @@
+<html>
+    <head>
+        <title>South Korea</title>
+        <script src="https://d3js.org/d3.v4.min.js"></script>
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    </head>
+    <body>
+        <div class="w3-top">
+            <div class="w3-bar w3-black w3-card">
+              <a href="../index.html" class="w3-bar-item w3-button w3-padding-large">HOME</a>
+              <a href="../world_data/index.html" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Global Population</a>
+              <a href="../South korea/index.html" class="w3-bar-item w3-button w3-padding-large w3-hide-small">South Korea</a>
+              <a href="../Canada/index.html" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Canada and Korea</a>
+            </div>
+        </div>
+        <h1 class="main" style="text-align: center; width: 100%; margin-top: 100px;">South Korea situation</h1>
+        <div style="width: 1000px; height: 46px;"></div>
+        <div id="map" class="main" style="width: 500px;"></div>
+        <h1 class="main" style="text-align: center; width: 100%; margin-top: 100px;">The relationship between temperatures and patient's status</h1>
+        <div id="line" class="main" style="width: 1500px; height: 600px; margin-top: 100px;">
+            <div id="container"> 
+                <div>
+                    <input type="checkbox" name="check" value="Seoul">
+                    <label for="vehicle1">Seoul</label><br>
+                    <input type="checkbox" name="check" value="Busan">
+                    <label for="vehicle1">Busan</label><br>
+                    <input type="checkbox" name="check" value="Daegu">
+                    <label for="vehicle1">Daegu</label><br>
+                    <input type="checkbox" name="check" value="Gwangju">
+                    <label for="vehicle1">Gwangju</label><br>
+                </div>
+                <div>
+                    <input type="checkbox" name="check" value="Incheon">
+                    <label for="vehicle1">Incheon</label><br>
+                    <input type="checkbox" name="check" value="Daejeon">
+                    <label for="vehicle1">Daejeon</label><br>
+                    <input type="checkbox" name="check" value="Ulsan">
+                    <label for="vehicle1">Ulsan</label><br>
+                    <input type="checkbox" name="check" value="Gyeonggi-do">
+                    <label for="vehicle1">Gyeonggi-do</label><br>
+                </div>
+                <div>
+                    <input type="checkbox" name="check" value="Gangwon-do">
+                    <label for="vehicle1">Gangwon-do</label><br>
+                    <input type="checkbox" name="check" value="Chungcheongbuk-do">
+                    <label for="vehicle1">Chungcheongbuk-do</label><br>
+                    <input type="checkbox" name="check" value="Chungcheongnam-do">
+                    <label for="vehicle1">Chungcheongnam-do</label><br>
+                    <input type="checkbox" name="check" value="Jeollabuk-do">
+                    <label for="vehicle1">Jeollabuk-do</label><br>
+                </div>
+                <div>
+                    <input type="checkbox" name="check" value="Jeollanam-do">
+                    <label for="vehicle1">Jeollanam-do</label><br>
+                    <input type="checkbox" name="check" value="Gyeongsangbuk-do">
+                    <label for="vehicle1">Gyeongsangbuk-do</label><br>
+                    <input type="checkbox" name="check" value="Gyeongsangnam-do">
+                    <label for="vehicle1">Gyeongsangnam-do</label><br>
+                    <input type="checkbox" name="check" value="Jeju-do">
+                    <label for="vehicle1">Jeju-do</label><br>
+                </div>
+            </div>
+        </div>
+        <script src="mapscript.js"></script>
+        <script src="linescript.js"></script>
+
+        <div class="footer">
+            <p> </p>
+        </div>
+    </body>
+</html>
