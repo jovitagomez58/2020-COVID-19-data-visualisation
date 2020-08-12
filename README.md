@@ -5,7 +5,7 @@ COVID-19 has become a serious problem worldwide. So far, many countries are stil
 ## Global situation
 In the “Global Cases” part, when user click the “start animate” bottom, the dynamic graph
 will be shown on the screen, the rank of countries’ confirm cases will changes with time goes. The number of confirm cases of each country shows on the right of each bar. The graph is shown as below.
-![(PLOT1: First secontion is shown as a global situation)](/Plot_fold/Picture 1.png)
+![image](https://github.com/Lynne73/2020-COVID-19-data-visualisation/blob/master/Plot_fold/Picture%201.png)
 After clicking “start animate”, over time, the number of confirmed cases in each country is increasing, as is the length of the bar. When mouse hover on the bar, the number of confirm case and its country will be shown in the text box.
 ![(PLOT2: Second secontion is shown as a global situation implementation)](/Plot_fold/Picture 2.png)
 ## South Korea situation
