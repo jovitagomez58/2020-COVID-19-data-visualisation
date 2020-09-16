@@ -1,4 +1,5 @@
 ## User Guide
+The data exploration part by R will be shown in the pdf format file named as COVID_DATA_exploration. 
 Open the html document called “index.html” with a standard web browser (chrome or firefox), you will see a web page containing three main sections. Shown as below
 ![(PLOT0: First-one secontion is shown as a global situation)](/Plot_fold/Picture0.png)
 # 2020-COVID-19-data-visualisation
