@@ -1,5 +1,5 @@
 ## User Guide
-COVID-19 open DATA is collected online. Using R do the data preprocessing and data exploration, doing the data visualisation by Javascript and D3 to show the plots on web. 
+*COVID-19 open DATA is collected online. Using R do the data preprocessing and data exploration, doing the data visualisation by Javascript and D3 to show the plots on web. 
 The data exploration part by R will be shown in the pdf format file named as COVID_DATA_EXPLORATION. 
 Open the html document called “index.html” with a standard web browser (chrome or firefox), you will see a web page containing three main sections. Shown as below
 ![(PLOT0: First-one secontion is shown as a global situation)](/Plot_fold/Picture0.png)
